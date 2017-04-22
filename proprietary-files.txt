@@ -464,7 +464,7 @@ bin/usf_proximity
 bin/usf_tester
 bin/yep_qmi_server
 etc/ad_calib.cfg
-etc/ad_calib_le_zl1.cfg
+etc/ad_calib_le_ares.cfg
 etc/firmware/Signedrompatch_v20.bin
 etc/firmware/Signedrompatch_v21.bin
 etc/firmware/Signedrompatch_v24.bin

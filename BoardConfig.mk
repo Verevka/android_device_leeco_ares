@@ -24,9 +24,9 @@
 # inherit from msm8996-common
 -include device/leeco/msm8996-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := le_zl1,zl1,lepro3
+TARGET_OTA_ASSERT_DEVICE := le_ares,ares,Cool S1
 
-DEVICE_PATH := device/leeco/zl1
+DEVICE_PATH := device/leeco/ares
 
 TARGET_SPECIFIC_HEADER_PATH += $(DEVICE_PATH)/include
 
@@ -55,4 +55,4 @@ BOARD_HARDWARE_CLASS += $(DEVICE_PATH)/cmhw
 BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy
 
 # inherit from the proprietary version
--include vendor/leeco/zl1/BoardConfigVendor.mk
+-include vendor/leeco/ares/BoardConfigVendor.mk

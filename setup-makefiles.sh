@@ -18,7 +18,7 @@
 set -e
 
 # Required!
-export DEVICE=zl1
+export DEVICE=ares
 export VENDOR=leeco
 
 # Call the common extractor
