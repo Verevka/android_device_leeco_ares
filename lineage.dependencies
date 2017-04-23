@@ -8,6 +8,6 @@
    "remote": "github",
    "repository": "Verevka/android_vendor_leeco_ares",
    "target_path": "vendor/leeco/ares",
-   "branch": "LineageOS-14.1"
+   "branch": "cm-14.1"
  }
 ]
